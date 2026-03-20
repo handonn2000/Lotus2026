@@ -23,8 +23,4 @@ Thumbs.db
 .env.production.local
 
 # Trae (Optional: remove if you want to version control Trae internal files)
-.trae/
-!.trae/agents/
-!.trae/rules/
-!.trae/skills/
-!.trae/specs/
+# .trae is tracked to share agents, rules, and specs with the team.

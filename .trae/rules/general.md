@@ -8,6 +8,7 @@ These rules apply to all aspects of the Lotus2026 project to maintain high stand
 - **Privacy by Design**: Protect student data and follow all educational data privacy regulations.
 
 ## Workflow Rules
+- **Skill Discovery**: For any new task or feature, first use `@skill-navigator` to identify the most relevant skills from the `.trae/skills` library.
 - **Spec-Driven Development**: All development must be based on the specifications found in [.trae/specs](file:///Users/handonn/Workplace/Lotus2026/.trae/specs). Implementation is only allowed after the user has approved the corresponding spec.
 - **Plan Before Implementation**: Always create a plan first and ask for user confirmation before implementing any code changes.
 - **Atomic Commits**: Each commit should represent a single, logical change.
